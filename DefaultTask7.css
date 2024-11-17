@@ -63,4 +63,13 @@ font-family: "Arial Black";
 .table {
     margin-left: 40%;
     
-}s
+}
+
+
+
+.button2 {
+    background-color:#dff5f2;
+    font-family: "Arial Black";
+    text-align: center;
+    border-width: 0px;
+}
